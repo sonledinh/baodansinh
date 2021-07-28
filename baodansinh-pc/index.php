@@ -21,23 +21,6 @@
 				            <div class="swiper-slide"><div class="item"><a href="">Đưa Nghị quyết 68/NQ-CP vào cuộc sống</a></div></div>
 				        </div>
 				    </div>
-					<!-- <div class="slide-news-top">
-						<div class="item-slide">
-							<div class="item"><a href="">Thông tin, tuyên truyền về dân tôc, tôn giáo</a></div>
-						</div>
-						<div class="item-slide">
-							<div class="item"><a href="">Các hoạt động Kỷ niệm 74 năm Ngày Thương binh - Liệt sĩ (27/7/1947 – 27/7/2021)</a></div>
-						</div>
-						<div class="item-slide">
-							<div class="item"><a href="">Kỳ họp thứ nhất, Quốc hội Khóa XV</a></div>
-						</div>
-						<div class="item-slide">
-							<div class="item"><a href="">Nghị quyết số 84/NQ-CP của Chính phủ tiếp tục tháo gỡ khó khăn do ảnh hưởng bởi dịch covid-19</a></div>
-						</div>
-						<div class="item-slide">
-							<div class="item"><a href="">Đưa Nghị quyết 68/NQ-CP vào cuộc sống</a></div>
-						</div>
-					</div> -->
 				</div>
 			</div>
 		</div>
@@ -56,6 +39,8 @@
 											<h1><a href="">Tối 18/7: Thêm 2.828 ca COVID-19, số ca mắc trong ngày là 5.926 ca</a></h1>
 											<div class="date"><i class="fa fa-clock-o"></i>2 giờ trước</div>
 										</div>
+										<ul>
+		                                <li class=""><a href="http://news.itmedia.vn/bat-dong-ve-van-de-syria-hang-chuc-nghi-si-tho-nhi-ky-lao-vao-au-da-d3983.html" class="" title="Bất đồng về vấn đề Syria, hàng chục Nghị sĩ Thổ Nhĩ Kỳ lao vào ẩu đả">Bất đồng về vấn đề Syria, hàng chục Nghị sĩ Thổ Nhĩ Kỳ lao vào ẩu đả</a></li><li class=""><a href="http://news.itmedia.vn/video-mang-xa-hoi-la-manh-dat-mau-mo-de-cac-thong-tin-khong-chinh-thong-d3661.html" class="" title="[VIDEO] Mạng xã hội là mảnh đất màu mỡ để các thông tin không chính thống">[VIDEO] Mạng xã hội là mảnh đất màu mỡ để các thông tin không chính thống</a></li><li class=""><a href="http://news.itmedia.vn/tuong-thuat-toa-dam-virus-tin-gia-va-truyen-thong-co-trach-nhiem-d3651.html" class="" title="[TƯỜNG THUẬT] Tọa đàm: 'Virus tin giả và Truyền thông có trách nhiệm'">[TƯỜNG THUẬT] Tọa đàm: "Virus tin giả và Truyền thông có trách nhiệm"</a></li>                            </ul>
 									</div>
 								</div>
 							</div>
@@ -139,10 +124,49 @@
 					</div>
 					<div class="box-ads-bar">
 						<div class="item-abs"><a href=""><img src="https://static-cmsads.admicro.vn/cmsads/2021/06/Bann-1623663745262.jpeg" class="img-fluid w-100" alt=""></a></div>
-						<div class="item-abs"><a href=""><img src="images/bandoc.png" class="img-fluid w-100" alt=""></a></div>
+						
+						<div class="side-ban-doc">
+							<div class="top">
+								<div class="left"><a href=""><img src="images/i-bd.png" class="img-fluid" alt="">Bạn đọc viết</a></div>
+								<ul class="list-inline text-right">
+									<li class="list-inline-item"><a href=""><img src="images/bd-1.png" class="img-fluid" alt=""></a></li>
+									<li class="list-inline-item"><a href=""><img src="images/bd-2.png" class="img-fluid" alt=""></a></li>
+									<li class="list-inline-item"><a href=""><img src="images/bd-3.png" class="img-fluid" alt=""></a></li>
+								</ul>
+							</div>
+							<div class="title-box">
+								<h3><a href="">Nhà báo Y tế - Những chiến sĩ quả cảm trên mặt trận thông tin</a></h3>
+							</div>
+							<div class="btn-bd text-center"><a href="javascript:void(0)" data-toggle="modal" data-target="#modal-bd">GỬI BÀI VIẾT</a></div>
+						</div>
+
 						<div class="item-abs"><a href=""><img src="images/weather-icon.png" class="img-fluid w-100" alt=""></a></div>
 					</div>
 				</div>
+			</div>
+		</div>
+
+		<div class="modal fade" id="modal-bd">
+			<div class="modal-dialog">
+			    <div class="modal-content">
+				    <div class="modal-body">
+				        <div class="content-popup">
+				        	<h4>THÔNG TIN BÀI VIẾT</h4>
+				        	<div class="form-bd">
+				        		<div class="item"><input type="text" placeholder="Tiêu đề" class="txt_bd"></div>
+				        		<div class="item"><input type="text" placeholder="Tên của bạn" class="txt_bd"></div>
+				        		<div class="item"><textarea name="" id="" placeholder="Nội dung"></textarea></div>
+				        		<div class="item"><img src="images/capcha.png" class="img-fluid" alt=""></div>
+				        		<div class="item">
+				        			<div class="button-action d-flex justify-content-center">
+					                    <input type="submit" value="Gửi" class="btn_bd">
+					                    <button class="btn-close" data-dismiss="modal">Đóng</button>
+					                </div>
+				        		</div>
+				        	</div>
+				        </div>
+				    </div>
+			    </div>
 			</div>
 		</div>
 	</section>
@@ -193,7 +217,7 @@
 								</div>
 							</div>
 							<div class="special-news">
-								<div class="title-spec text-center"><img src="images/spec.png" class="img-fluid" alt="">HỌC NGHỀ-LẬP NGHIỆP</div>
+								<div class="title-spec text-center"><img src="images/spec.png" class="img-fluid" alt=""><a href="">HỌC NGHỀ-LẬP NGHIỆP</a></div>
 								<div class="item-spec">
 									<div class="avarta"><a href=""><img src="https://baodansinh.mediacdn.vn/zoom/300_188/222978561005920256/2021/7/13/unnamed-1626179983565184784799-60-0-960-1440-crop-16261801604631280335910.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">

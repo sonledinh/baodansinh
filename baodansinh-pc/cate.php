@@ -12,11 +12,11 @@
 					<div class="title-cate-top text-uppercase">
 						<div class="row align-items-center">
 							<div class="col-md-5">
-								<h2>Thế giới</h2>
+								<h2><a href="">Thế giới</a></h2>
 							</div>
 							<div class="col-md-7">
 								<ul class="list-inline text-right">
-									<li class="list-inline-item"><a href="">Thế giới muôn màu</a></li>
+									<li class="list-inline-item"><a href="" class="active">Thế giới muôn màu</a></li>
 									<li class="list-inline-item"><a href="">Thế giới muôn màu</a></li>
 									<li class="list-inline-item"><a href="">Thế giới muôn màu</a></li>
 								</ul>

@@ -10,7 +10,7 @@
 			<div class="content-detail">
 				<div class="cate-detail">
 					<ul class="text-uppercase">
-						<li><a href="">Chính sách người có công</a></li>
+						<li><a href="" class="active">Chính sách người có công</a></li>
 						<li><a href="">Thông tin liệt sĩ</a></li>
 						<li><a href="">Đền ơn đáp nghĩa</a></li>
 					</ul>

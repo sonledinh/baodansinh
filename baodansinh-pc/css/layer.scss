@@ -3,6 +3,18 @@ footer {
 	background: #f9f9f9;
 	margin-top: 30px;
 }
+p.flx {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+p.flx span.w135:first-child {
+    flex: 0 0 130px;
+}
+
+p.flx.mb5:last-child {
+    margin-bottom: 0;
+}
 .fter-top {
 	padding: 40px 0 20px 0;
     border-bottom: thin solid #8b9ba7;
@@ -162,10 +174,32 @@ footer {
 		a {
 			display: inline-flex;
 			font-weight: 500;
+			position: relative;
+			&:hover {
+				color: #00539d;
+			}
+			&.active {
+				color: #00539d;
+				&:after {
+					content: ' ';
+				    position: absolute;
+				    height: 2px;
+				    width: 100%;
+				    bottom: -20px;
+				    left: 0;
+				    background: #00539d;
+				}
+			}
 		}
 	}
 }
-
+.clickable-menu {
+	a {
+		&:after {
+			display: none !important;
+		}
+	}
+}
 .all-menu {
     background: #f9f9f9;
     position: absolute;

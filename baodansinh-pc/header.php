@@ -47,7 +47,7 @@
                   <div class="logo"><a href=""><img src="https://static.mediacdn.vn/baodansinh/web_images/logo_web.svg" class="img-fluid" alt=""></a></div>
                      <ul>
                         <li>
-                           <a href="">Thời sự</a>
+                           <a href="" class="active">Thời sự</a>
                         </li>
                         <li>
                            <a href="">An sinh xã hội</a>
