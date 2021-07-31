@@ -14,18 +14,24 @@
 				<div class="col-md-9 col-left">
 					<div class="title-cate-top text-uppercase">
 						<div class="row align-items-center">
-							<div class="col-md-5">
+							<div class="col-md-3">
 								<h2>PHOTO</h2>
 							</div> 
-							<div class="col-md-7">
-								<ul class="list-inline text-right">
-									<li class="list-inline-item"><a href="" class="active">Chia sẻ</a></li>
-									<li class="list-inline-item"><a href="">Chia sẻ</a></li>
-									<li class="list-inline-item"><a href="">Chia sẻ</a></li>
-									<li class="list-inline-item"><a href="">Chia sẻ</a></li>
-									<li class="list-inline-item"><a href="">Chia sẻ</a></li>
-								</ul>
-							</div>
+							<div class="col-md-9">
+								<div class="scr-cate">
+									<ul class="list-inline text-right">
+	                                    <li class="list-inline-item "><a href="http://news.itmedia.vn/photo/thoi-su.htm" class="" title="Thời sự">Thời sự</a></li>
+	                                    <li class="list-inline-item "><a href="http://news.itmedia.vn/photo/an-sinh-xa-hoi.htm" class="" title="An sinh xã hội">An sinh xã hội</a></li>
+	                                    <li class="list-inline-item "><a href="http://news.itmedia.vn/photo/nguoi-co-cong.htm" class="" title="Người có công">Người có công</a></li>
+	                                    <li class="list-inline-item "><a href="http://news.itmedia.vn/photo/giao-duc-nghe-nghiep.htm" class="" title="Giáo dục nghề nghiệp">Giáo dục nghề nghiệp</a></li>
+	                                    <li class="list-inline-item "><a href="http://news.itmedia.vn/photo/kinh-te.htm" class="" title="Kinh tế">Kinh tế</a></li>
+	                                    <li class="list-inline-item "><a href="http://news.itmedia.vn/photo/lao-dong-viec-lam.htm" class="" title="Lao động - việc làm">Lao động - việc làm</a></li>
+	                                    <li class="list-inline-item "><a href="http://news.itmedia.vn/photo/chia-se.htm" class="" title="Chia sẻ">Chia sẻ</a></li>
+	                                    <li class="list-inline-item "><a href="http://news.itmedia.vn/photo/van-hoa-giai-tri.htm" class="" title="Văn hóa - Giải trí">Văn hóa - Giải trí</a></li>
+	                                    <li class="list-inline-item "><a href="http://news.itmedia.vn/photo/phap-luat.htm" class="" title="Pháp luật">Pháp luật</a></li>
+	                                </ul>
+								</div>
+							</div>                               
 						</div>
 					</div>
 					<div class="list-photo">

@@ -38,7 +38,7 @@ body {
     input, button {    
     	outline: none !important; 
     	box-shadow: none; 
-    	transition: .3s all; 
+    	transition: .3s all;  
     }
     .slick-slide {
     	height: auto;  
@@ -845,3 +845,12 @@ body {
     }
 }
 @import "news.scss";
+
+.slide-thumbs-video {
+    .slider-for {
+        img {
+            height: 60vh;
+            object-fit: cover;
+        }
+    }
+}  

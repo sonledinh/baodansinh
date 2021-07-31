@@ -5,7 +5,7 @@
 			<div class="slide-thumbs-video">
 				<div class="slider-for text-center">
 	                <div class="carousel-item">
-	                    <img src="https://baodansinh.mediacdn.vn/2019/8/24/anh-2b-0135-1566648641135838984681.jpg" class="img-fluid" alt="">
+	                    <img src="https://media.anninh24h.vn/files/content/2020/02/12/mac-benh-dich-do-ncov-duoc-kham-mien-phi_0402173604-1349.jpg" class="img-fluid" alt="">
 	                    <span>Chiếc bánh nướng Trung thu được xác lập kỷ lục lớn nhất Việt Nam có: Chiều cao 15cm; Đường kính: 85cm; Cân nặng: 150kg</span>
 	                </div>
 	                <div class="carousel-item">
@@ -48,7 +48,7 @@
 	            <div class="list-nav">
 	            	<div class="slider-nav">
 		                 <div class="clc">
-		                 	<div class="item"><img class="" src="https://baodansinh.mediacdn.vn/2019/8/24/anh-2b-0135-1566648641135838984681.jpg" class="img-fluid w-100" alt="Third slide"></div>
+		                 	<div class="item"><img class="" src="https://media.anninh24h.vn/files/content/2020/02/12/mac-benh-dich-do-ncov-duoc-kham-mien-phi_0402173604-1349.jpg" class="img-fluid w-100" alt="Third slide"></div>
 		                 </div>
 		                 <div class="clc">
 		                 	<div class="item"><img class="" src="https://baodansinh.mediacdn.vn/2019/8/24/anh-2b-0135-1566648641135838984681.jpg" class="img-fluid w-100" alt="Third slide"></div>
