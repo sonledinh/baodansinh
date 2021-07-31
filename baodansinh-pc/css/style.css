@@ -402,7 +402,7 @@ p.flx.mb5:last-child {
   .scroll-new-top ul {
     list-style: none;
     padding: 0 20px;
-    height: 485px;
+    height: 600px;
     overflow: auto; }
     .scroll-new-top ul li {
       border-bottom: 1px solid #ebebeb; }
@@ -1269,8 +1269,6 @@ p.flx.mb5:last-child {
     color: #bec3c7; }
     .title-cate-top a.active, .title-cate-top a:hover {
       color: #28333b; }
-  .title-cate-top ul {
-    width: max-content; }
 
 .scr-cate {
   overflow: auto;
@@ -1285,6 +1283,9 @@ p.flx.mb5:last-child {
   .scr-cate::-webkit-scrollbar-thumb {
     border-radius: 10px;
     background-color: #8b9ba7; }
+  .scr-cate ul {
+    width: max-content;
+    margin-left: auto; }
 
 .box-video-play {
   padding: 30px 0; }

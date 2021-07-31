@@ -392,9 +392,6 @@
             color: #28333b;
         }
     }
-    ul {
-        width: max-content;
-    }
 }
 .scr-cate {
     overflow: auto;
@@ -411,6 +408,10 @@
     &::-webkit-scrollbar-thumb {
         border-radius: 10px;
         background-color: #8b9ba7;
+    }
+    ul {
+        width: max-content;
+        margin-left: auto;
     }
 }
 
