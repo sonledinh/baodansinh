@@ -7,3 +7,14 @@
 .detail-avatar img {
 	margin: 0 !important;
 }
+.icon-search {top: 10px0;position: relative;}
+h1.left.category-title a {
+    padding: 0 15px;
+    display: block;
+    font-size: 20px;
+}
+.gallery-top {width: 100%;}
+#photo-album .photo-album-thumbs li img {
+    height: 70px;
+    object-fit: cover;
+}

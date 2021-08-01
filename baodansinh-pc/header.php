@@ -32,8 +32,10 @@
                         <li class="list-inline-item">
                            <a href="javascript:void(0)" class="search-a"><img src="images/head-3.png" class="img-fluid mr-0" alt=""></a>
                            <div class="form-search">
-                              <input type="text" placeholder="Tìm kiếm">
-                              <button><i class="fa fa-search"></i></button>
+                              <form action="">
+                                 <input type="text" placeholder="Tìm kiếm">
+                                 <button><i class="fa fa-search"></i></button>
+                              </form>
                            </div>
                         </li>
                      </ul>
